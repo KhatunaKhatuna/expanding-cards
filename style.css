@@ -74,3 +74,19 @@ h6 {
   font-weight: 400;
 }
 /* ------end resset ------*/
+
+.card1 {
+  background-image: url("/images/explore-the-world.jpg");
+}
+.card2 {
+  background-image: url("/images/wild-forest.jpg");
+}
+.card3 {
+  background-image: url("/images/sunny-beach.jpg");
+}
+.card4 {
+  background-image: url("/images/city-on-winter.jpg");
+}
+.card5 {
+  background-image: url("/images/Mountains-Clouds.jpg");
+}
