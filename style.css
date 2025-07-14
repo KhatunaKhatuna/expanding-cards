@@ -130,6 +130,12 @@ body {
   left: 4rem;
   opacity: 0;
 }
+.card.active {
+  flex: 1;
+}
+.card.active .card-heading {
+  opacity: 1;
+}
 
 @media (max-width: 480px) {
   .container {
