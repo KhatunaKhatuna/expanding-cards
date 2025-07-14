@@ -26,8 +26,6 @@ html,
 body {
   height: 100%;
   width: 100%;
-  /* font-size: 100%; */
-  /* font-size: 16px; */
   line-height: 1;
   -ms-text-size-adjust: 100%;
   -moz-text-size-adjust: 100%;
@@ -96,7 +94,6 @@ body {
   color: #fff;
 }
 .card {
-  /* background-size: auto 100%; */
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
