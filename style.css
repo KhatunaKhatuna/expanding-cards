@@ -103,7 +103,7 @@ body {
   height: 80vh;
   border-radius: 5rem;
   cursor: pointer;
-  flex: 0.5;
+  flex: 7;
   margin: 1rem;
   position: relative;
   transition: flex 0.7s ease-in;
@@ -131,10 +131,11 @@ body {
   opacity: 0;
 }
 .card.active {
-  flex: 1;
+  flex: 72;
 }
 .card.active .card-heading {
   opacity: 1;
+  transition: opacity 0.3s ease-in 0.4s;
 }
 
 @media (max-width: 480px) {
