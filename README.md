@@ -33,14 +33,14 @@ To run this project locally:
 
 
 ## Project Structure
-
-> expanding-cards/<br>
-> ├── index.html      # Main HTML file<br>
-> ├── style.css       # CSS styles for layout, design and animation<br>
-> ├── script.js       # JavaScript logic for card interactions<br>
-> ├── images/         # Contains background images used for the cards<br>
-> └── README.md       # Project documentation
-
+```text
+ expanding-cards/<br>
+ ├── index.html           # Main HTML file<br>
+ ├── style.css            # CSS styles for layout, design and animation<br>
+ ├── script.js            # JavaScript logic for card interactions<br>
+ ├── images/              # Contains background images used for the cards<br>
+ └── README.md            # Project documentation
+```
 ---
 
 ## Contributing
