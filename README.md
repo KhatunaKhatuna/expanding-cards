@@ -25,19 +25,21 @@ To run this project locally:
 ---
 
 ## Technologies Used
-1. HTML5: Semantic structure for content
-2. CSS3: Flexbox layout, transitions, media queries for responsiveness
-3. JavaScript: Event listeners and class toggling to manage card expansion
+1. **HTML5:** Semantic structure for content
+2. **CSS3:** Flexbox layout, transitions, media queries for responsiveness
+3. **JavaScript:** Event listeners and class toggling to manage card expansion
 
 ---
 
-## Project Structure
-/images         # Contains background images used for the cards  
-index.html     # Main HTML markup  
-style.css      # CSS styles for layout, design, and animations  
-script.js      # JavaScript logic for card interactions  
-README.md      # This project documentation  
 
+## Project Structure
+
+> expanding-cards/<br>
+> ├── index.html      # Main HTML file<br>
+> ├── style.css       # CSS styles for layout, design and animation<br>
+> ├── script.js       # JavaScript logic for card interactions<br>
+> ├── images/         # Contains background images used for the cards<br>
+> └── README.md       # Project documentation
 
 ---
 
